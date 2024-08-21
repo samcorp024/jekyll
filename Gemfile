@@ -1,15 +1,9 @@
 source "https://rubygems.org"
 
-# Specify the version of Jekyll
-gem "jekyll", "~> 4.3.3"
+# GitHub Pages gem, which includes Jekyll and necessary plugins
+gem "github-pages", group: :jekyll_plugins
 
-# Default theme for Jekyll
-gem "minima", "~> 2.5"
-
-# Uncomment the line below if using GitHub Pages and comment out the Jekyll gem line above
-# gem "github-pages", group: :jekyll_plugins
-
-# Jekyll plugins
+# Additional Jekyll plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end

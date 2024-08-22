@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /categories/blockchain/
+description: Posts related to Casino game development.
+---
+
 <style>
   /* Existing styles */
   .posts-container {
@@ -113,7 +119,7 @@
 <h1>Casino Posts</h1>
 
 <div class="posts-container">
-  {% assign category = 'casino' %}
+  {% assign category = 'bockchain' %}
   {% for post in site.posts %}
     {% if post.categories contains category %}
       <div class="post-card">

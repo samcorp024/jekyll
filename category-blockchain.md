@@ -119,7 +119,7 @@ description: Posts related to Casino game development.
 <h1>Casino Posts</h1>
 
 <div class="posts-container">
-  {% assign category = 'bockchain' %}
+  {% assign category = 'blockchain' %}
   {% for post in site.posts %}
     {% if post.categories contains category %}
       <div class="post-card">

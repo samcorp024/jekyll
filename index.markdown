@@ -1,6 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+paginate: true
+title: Home
 ---
+
+<div class="button-container">
+  <a href="/categories" class="button">Category</a>
+  <a href="/tags/?tag=trending" class="button">Tags</a>
+  <a href="/posts" class="button">Posts</a>
+</div>
+
+<!-- ## Welcome to My Jekyll Site -->
+
+<!-- This is the main page of my Jekyll site. Explore the different sections using the buttons above.
+
+### Featured Content
+- **Latest Post**: [Title of Latest Post](/posts/latest-post-url)
+- **Popular Category**: [Popular Category Name](/category/popular-category-url)
+- **External Resources**: [Useful Links](/links) -->

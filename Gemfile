@@ -19,3 +19,7 @@ gem "wdm", "~> 0.2.0", platforms: [:mingw, :x64_mingw, :mswin]
 
 # Lock http_parser.rb version on JRuby
 gem "http_parser.rb", "~> 0.6.0", platforms: [:jruby]
+
+
+gem "jekyll-paginate"
+gem 'faraday-retry'

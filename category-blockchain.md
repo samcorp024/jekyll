@@ -116,7 +116,7 @@ description: Posts related to Casino game development.
   }
 </style>
 
-<h1>Casino Posts</h1>
+<h1>Bloc Posts</h1>
 
 <div class="posts-container">
   {% assign category = 'blockchain' %}

@@ -5,9 +5,9 @@ title: Home
 ---
 
 <div class="button-container">
-  <a href="/jekyll/categories" class="button">Category</a>
-  <a href="/jekyll/tags/?tag=trending" class="button">Tags</a>
-  <a href="/jekyll/posts" class="button">Posts</a>
+  <a href="/categories" class="button">Category</a>
+  <a href="/tags/?tag=trending" class="button">Tags</a>
+  <a href="/posts" class="button">Posts</a>
 </div>
 
 <!-- ## Welcome to My Jekyll Site -->

@@ -25,6 +25,7 @@ permalink: /posts/
     max-width: 290px;
     transition: transform 0.3s ease;
     padding: 6px;
+    position:relative;
   }
 
   .post-card img {
@@ -50,6 +51,9 @@ permalink: /posts/
     padding: 10px;
     margin-top: auto;
     background-color: #0073e6;
+    position:absolute;
+    bottom:5px;
+    width:90%;
     color: white;
     text-decoration: none;
     border-radius: 0 0 8px 8px;

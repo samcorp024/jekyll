@@ -16,6 +16,7 @@ description: Posts related to Casino game development.
   .post-card {
     background-color: #f9f9f9;
     border-radius: 8px;
+    position:relative;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -48,6 +49,9 @@ description: Posts related to Casino game development.
     display: block;
     text-align: center;
     padding: 10px;
+    position:absolute;
+    width:90%;
+    bottom:5px;
     margin-top: auto;
     background-color: #0073e6;
     color: white;

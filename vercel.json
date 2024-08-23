@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/jekyll",
-      "destination": "/jekyll/",
+      "source": "/jekyll/",
+      "destination": "/jekyll",
       "permanent": true
     }
   ],

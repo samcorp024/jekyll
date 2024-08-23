@@ -1,16 +1,20 @@
 {
   "rewrites": [
     {
+      "source": "/jekyll/:path*/",
+      "destination": "/:path*/"
+    },
+    {
       "source": "/jekyll/:path*",
-      "destination": "/jekyll/:path*/index.html"
+      "destination": "/:path*/"
     },
     {
       "source": "/jekyll/",
-      "destination": "/jekyll/index.html"
+      "destination": "/index.html"
     },
     {
       "source": "/jekyll",
-      "destination": "/jekyll/index.html"
+      "destination": "/index.html"
     }
   ]
 }

@@ -15,7 +15,16 @@
   <meta name="twitter:card" content="summary" />
   <meta property="twitter:title" content="{{ page.title }}" />
   <link rel="stylesheet" href="{{ '/assets/main.css' | absolute_url }}">
-  <link rel="stylesheet" href= '/assets/main.css'>
+  <link rel="stylesheet" href="/assets/main.css">
+
+  <!-- Redirect if the current URL is the root URL -->
+  <script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function() {
+      if (window.location.pathname === "/") {
+        window.location.replace("/jekyll/");
+      }
+    });
+  </script>
 </head>
 <body>
   <header class="site-header" role="banner">

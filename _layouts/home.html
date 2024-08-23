@@ -16,6 +16,14 @@
   <meta property="twitter:title" content="{{ page.title }}" />
   <link rel="stylesheet" href="{{ '/assets/main.css' | absolute_url }}">
   <link rel="stylesheet" href= '/assets/main.css'>
+
+  <script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function() {
+      if (window.location.pathname === "/") {
+        window.location.replace("/jekyll/");
+      }
+    });
+  </script>
 </head>
 <body>
   <header class="site-header" role="banner">

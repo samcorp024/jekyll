@@ -9,7 +9,7 @@ permalink: /categories/
   {% for category in site.categories %}
     {% assign category_name = category[0] | slugify %}
     <div class="category-card">
-      <img src="/jekyll/assets/images/{{ site.data.categories[category_name].image }}" alt="{{ category[0] | capitalize }} category image">
+      <img src="{{ site.data.categories[category_name].image }}" alt="{{ category[0] | capitalize }} category image">
       <h2><a href="/jekyll/categories/{{ category_name }}/">{{ category[0] | capitalize }}</a></h2>
       <p>{{ site.data.categories[category_name].description }}</p>
     </div>

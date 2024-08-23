@@ -1,9 +1,15 @@
 {
-    "rewrites": [
-      {
-        "source": "/jekyll/:path*",
-        "destination": "/:path*"
-      }
-    ]
-  }
-  
+  "redirects": [
+    {
+      "source": "/jekyll",
+      "destination": "/jekyll/",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/jekyll/:path*",
+      "destination": "/:path*"
+    }
+  ]
+}

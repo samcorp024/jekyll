@@ -326,7 +326,7 @@ tags:
     </style>
 
 
-
+<body>
 
   <div style="width:100%;margin:10px 0px 10px 0px;">
 <img style="max-height:400px; width:100%; object-fit:cover;" src="https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20Games%20(1).png?raw=true" alt="post img" /> 
@@ -492,4 +492,4 @@ tags:
             issues with proactive fault tolerance measures will be crucial for maintaining player trust and ensuring the
             long-term success of your games.</span></p>
     <p class="c7"><span class="c5"></span></p>
-
+</body>

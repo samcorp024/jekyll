@@ -7,8 +7,8 @@ permalink: /:title/
 categories:
   - casino
 tags:
-  - casino game development
-  - casino game development company
+  - casino-game-development
+  - casino-game-development-company
 ---
 
 <style type="text/css">

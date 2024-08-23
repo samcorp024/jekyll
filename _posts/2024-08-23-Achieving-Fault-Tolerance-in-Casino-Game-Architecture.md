@@ -4,6 +4,7 @@ title: "Achieving Fault Tolerance in Casino Game Architecture"
 date: 2022-08-23 00:00:00 +0000
 image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20Games%20(1).png?raw=true
 permalink: /:title/
+description: "This is a mini description of the post, which will be displayed in the card layout."
 categories:
   - casino
 tags:

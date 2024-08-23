@@ -1,12 +1,23 @@
 {
   "rewrites": [
     {
-      "source": "/jekyll/:path*/",
+      "source": "/jekyll/:path*",
       "destination": "/jekyll/:path*/index.html"
     },
     {
-      "source": "/jekyll/:path*",
-      "destination": "/jekyll/:path*/index.html"
+      "source": "/jekyll",
+      "destination": "/jekyll/index.html"
+    },
+    {
+      "source": "/",
+      "destination": "/jekyll/index.html"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/jekyll",
+      "permanent": true
     }
   ]
 }

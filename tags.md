@@ -21,7 +21,7 @@ permalink: /tags/
         <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}">
       {% endif %}
       <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+      <p class="discription">{{ post.excerpt | strip_html | truncate: 150 }}</p>
       <a href="{{ post.url | absolute_url }}" class="read-more">Read More</a>
     </div>
   {% endfor %}

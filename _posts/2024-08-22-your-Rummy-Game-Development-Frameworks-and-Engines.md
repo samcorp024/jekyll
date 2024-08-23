@@ -6,8 +6,8 @@ permalink: '/:title/'
 categories:
   - casino
 tags:
-  - Rummy Game Development
-  - Rummy Game Development Services
+  - rummy game development
+  - rummy game development services
 ---
  <h1>Rummy Game Development Frameworks and Engines: Exploring Popular Choices</h1>
 

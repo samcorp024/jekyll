@@ -3,8 +3,13 @@ layout: post
 title: "Microservices Architecture in Casino Game Development"
 date: 2024-08-23
 image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20Games%20(1).png?raw=true
+permalink: /:title/
+description: "Microservices architecture offers a powerful approach for building scalable, flexible, and resilient systems in the casino game development"
 author: John Austin
 categories: [Casino Game Development]
+tags:
+  - casino-game-development
+  - casino-game-development-company
 ---
 ![Casino Games](https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20Games%20(1).png?raw=true)
 ## Microservices Architecture in Casino Game Development

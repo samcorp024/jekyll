@@ -2,6 +2,7 @@
 layout: post
 title: "Using Containers in Casino Game Architecture"
 date: 2024-08-23
+image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20Games%20(1).png
 author: John Austin
 categories: [Casino Game Development]
 ---

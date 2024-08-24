@@ -2,7 +2,7 @@
 layout: post
 title: "Optimizing Casino Game Performance for High Traffic"
 date: 2024-08-23
-image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20Games%20(1).png
+image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20Games%20(1).png?raw=true
 author: John Austin
 categories: [Casino Game Development]
 ---

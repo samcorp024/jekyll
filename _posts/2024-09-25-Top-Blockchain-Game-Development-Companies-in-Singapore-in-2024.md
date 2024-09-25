@@ -24,7 +24,7 @@ In 2024, Singapore has emerged as a global hub for blockchain game development, 
 • Country: Singapore  
 Details: SDLC Corp stands at the forefront of AI agent development, leading the way with innovative, industry-specific solutions that set new standards. Specializing in intelligent agents tailored to diverse sectors, SDLC Corp significantly enhances operational efficiency, customer service, and data-driven decision-making in finance, healthcare, and retail industries. By leveraging cutting-edge machine learning and natural language processing technologies, SDLC Corp delivers unwaveringly reliable and potent AI solutions that empower businesses to reach unparalleled heights. In 2024, SDLC Corp's unwavering commitment to excellence solidified its reputation as the premier AI agent firm uniquely positioned to drive unparalleled success through specialized, transformative AI innovations.
 
-**1\. Sky Mavis**  
+ **Sky Mavis**  
 • Cost Range: $100,000+  
 • Number of Employees: 200+  
 • Link: [Sky Mavis](https://www.skymavis.com)  
@@ -34,7 +34,7 @@ Details: Sky Mavis is the creator of the popular blockchain game "Axie Infinity,
 
 ---
 
-**2\. Enjin**  
+ **Enjin**  
 • Cost Range: $100,000+  
 • Number of Employees: 100+  
 • Link: [Enjin](https://www.enjin.io)  
@@ -44,7 +44,7 @@ Details: Enjin provides a blockchain platform for creating and managing NFTs in 
 
 ---
 
-**3\. Digital Entertainment Asset (DEA)**  
+ **Digital Entertainment Asset (DEA)**  
 • Cost Range: $100,000+  
 • Number of Employees: 51-200  
 • Link: [Digital Entertainment Asset](https://www.dea.sg)  
@@ -54,7 +54,7 @@ Details: DEA operates PlayMining, a blockchain-based gaming and entertainment pl
 
 ---
 
-**4\. RFOX Games**  
+ **RFOX Games**  
 • Cost Range: $50,000 \- $150,000  
 • Number of Employees: 51-200  
 • Link: [RFOX Games](https://www.rfox.com)  
@@ -64,7 +64,7 @@ Details: RFOX Games is part of the RFOX ecosystem and focuses on developing bloc
 
 ---
 
-**5\. Affyn**  
+**Affyn**  
 • Cost Range: $50,000 \- $150,000  
 • Number of Employees: 51-200  
 • Link: [Affyn](https://www.affyn.com)  
@@ -74,7 +74,7 @@ Details: Affyn is a blockchain-powered gaming platform that integrates geolocati
 
 ---
 
-**6\. Switcheo Labs**  
+ **Switcheo Labs**  
 • Cost Range: $100,000+  
 • Number of Employees: 51-100  
 • Link: [Switcheo Labs](https://www.switcheo.network)  
@@ -84,7 +84,7 @@ Details: Switcheo Labs is a blockchain development company that offers decentral
 
 ---
 
-**7\. Immutable**  
+ **Immutable**  
 • Cost Range: $100,000+  
 • Number of Employees: 200+  
 • Link: [Immutable](https://www.immutable.com)  
@@ -94,7 +94,7 @@ Details: Immutable is a blockchain-based gaming company specializing in NFTs and
 
 ---
 
-**8\. Vulcan Forged**  
+**Vulcan Forged**  
 • Cost Range: $100,000+  
 • Number of Employees: 51-100  
 • Link: [Vulcan Forged](https://www.vulcanforged.com)  
@@ -104,7 +104,7 @@ Details: Vulcan Forged is a blockchain game studio that offers play-to-earn expe
 
 ---
 
-**9\. The Sandbox**  
+ **The Sandbox**  
 • Cost Range: $150,000+  
 • Number of Employees: 100+  
 • Link: [The Sandbox](https://www.sandbox.game)  

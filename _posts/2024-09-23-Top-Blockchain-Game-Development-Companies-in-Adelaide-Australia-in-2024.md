@@ -7,7 +7,9 @@ image: https://raw.githubusercontent.com/akashpalve007/prod-website-images/b8d61
 permalink: /:title/
 description: "Discover the leading blockchain game development companies in Adelaide, Australia, shaping the future of gaming in 2024."
 author: John sen
-categories: [Blockchain Game Development]
+categories: 
+  - Blockchain Game Development
+  - blockchain
 tags:
   - Blockchain-game-development
   - Blockchain-game-development-company

@@ -6,7 +6,9 @@ image: https://raw.githubusercontent.com/akashpalve007/prod-website-images/a16f1
 permalink: /:title/
 description: "Discover the leading blockchain game development companies in Beijing, China in 2024, pushing the boundaries of gaming innovation."
 author: mitcheal
-categories: [Blockchain Game Development]
+categories: 
+  - Blockchain Game Development
+  - blockchain
 tags:
   - Blockchain-game-development
   - Blockchain-game-development-company

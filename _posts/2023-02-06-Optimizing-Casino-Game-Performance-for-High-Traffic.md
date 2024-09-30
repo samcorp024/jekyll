@@ -6,7 +6,9 @@ image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20G
 permalink: /:title/
 description: "Optimizing casino game performance for high traffic is a multifaceted challenge that requires a combination of server infrastructure."
 author: John Austin
-categories: [Casino Game Development]
+categories: 
+  - Casino Game Development
+  - casino
 tags:
   - casino-game-development
   - casino-game-development-company

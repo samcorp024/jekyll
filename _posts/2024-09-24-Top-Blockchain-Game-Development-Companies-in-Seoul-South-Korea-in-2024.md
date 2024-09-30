@@ -6,7 +6,9 @@ image: https://raw.githubusercontent.com/akashpalve007/prod-website-images/e53bf
 permalink: /:title/
 description: "Explore the top blockchain game development companies in Seoul, South Korea, leading innovation with decentralized gaming solutions in 2024."
 author: mitcheal
-categories: [Blockchain Game Development]
+categories: 
+  - Blockchain Game Development
+  - blockchain
 tags:
   - Blockchain-game-development
   - Blockchain-game-development-company

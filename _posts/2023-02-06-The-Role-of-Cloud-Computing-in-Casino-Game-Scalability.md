@@ -6,7 +6,9 @@ image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20G
 permalink: /:title/
 description: "This article explores the pivotal role of cloud computing in achieving scalability in casino games."
 author: John Austin
-categories: [Casino Game Development]
+categories: 
+  - Casino Game Development
+  - casino
 tags:
   - casino-game-development
   - casino-game-development-company

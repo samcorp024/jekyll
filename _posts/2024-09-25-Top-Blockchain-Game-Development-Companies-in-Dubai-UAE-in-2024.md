@@ -6,7 +6,9 @@ image: https://raw.githubusercontent.com/akashpalve007/prod-website-images/51401
 permalink: /:title/
 description: "Discover the top Blockchain game development companies in Dubai in 2024, offering cutting-edge solutions and expert developers for your projects."
 author: John sen
-categories: [blockchain game development]
+categories: 
+  - blockchain game development
+  - blockchain
 tags:
   - blockchain-game-development
   - blockchain-game-development-company

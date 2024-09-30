@@ -6,7 +6,9 @@ image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20G
 permalink: /:title/
 description: "Containers have become a cornerstone of modern offering the scalability, portability, and consistency needed to meet the demands of today’s players."
 author: John Austin
-categories: [Casino Game Development]
+categories: 
+  - Casino Game Development
+  - casino
 tags:
   - casino-game-development
   - casino-game-development-company

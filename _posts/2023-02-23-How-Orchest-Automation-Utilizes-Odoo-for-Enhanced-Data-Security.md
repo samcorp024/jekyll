@@ -4,7 +4,7 @@ title: "How Orchest Automation Utilizes Odoo for Enhanced Data Security"
 date: 2024-09-21
 image: https://github.com/nandini-bodkhe1/IMAGES/blob/main/odoo/What%20Are%20Carbon%20Tokens_%20A%20Beginner%E2%80%99s%20Guide%20to%20KlimaDAO%20and%20Carbon%20Crypto.png?raw=true
 permalink: /:title/
-description: "Explore top Blockchain game development companies in Brisbane, including SDLC Corp, offering cutting-edge gaming solutions."
+description: "Discover how Orchest Automation uses Odoo to improve data security. Learn how this combo keeps your information safe and well-managed."
 author: John Austin
 categories: [Odoo]
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " How to Set Up Automatic Reordering in Odoo"
-date: 2022-04-05
+date: 2024-11-13
 image:  https://github.com/nandini-bodkhe1/IMAGES/blob/main/How%20to%20Set%20Up%20Automatic%20Reordering%20in%20Odoo%20(1).png?raw=true
 permalink: /:title/
 description: "Learn how to set up automatic reordering in Odoo to streamline inventory management and ensure you never run out of stock."

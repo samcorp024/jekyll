@@ -4,8 +4,7 @@ title: "The Challenges of Data Migration in Odoo and How to Overcome Them"
 date: 2024-09-21
 image: https://github.com/nandini-bodkhe1/ffkf/blob/main/The%20Challenges%20of%20Data%20Migration%20in%20Odoo%20and%20How%20to%20Overcome%20Them.png?raw=true
 permalink: /:title/
-description: "
-Explore the hurdles of data migration in Odoo and get practical tips to make the process smoother, from planning to execution."
+description: "Explore the hurdles of data migration in Odoo and get practical tips to make the process smoother, from planning to execution."
 author: John Austin
 categories: [Odoo]
 tags:

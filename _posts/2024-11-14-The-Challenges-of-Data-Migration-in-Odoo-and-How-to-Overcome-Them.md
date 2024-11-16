@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0eb12411-666d-4d9e-a81c-0b97203eb7bc)---
+---
 layout: post
 title: "The Challenges of Data Migration in Odoo and How to Overcome Them"
 date: 2024-09-21

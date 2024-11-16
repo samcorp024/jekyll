@@ -1,17 +1,17 @@
 ---
-	layout: post
-	title: "Exploring Open Source Contributions in the Odoo Community"
-	date: 2024-09-21
-	image: https://github.com/nandini-bodkhe1/ffkf/blob/main/Exploring%20Open%20Source%20Contributions%20in%20the%20Odoo%20Community.png?raw=true
-	permalink: /:title/
-	description: "Dive into the world of open-source with the Odoo Community, where collaboration and shared ideas drive innovation and support growth for all."
-	author: John Austin
-	categories: [Odoo]
-	tags:
-	  - odoo-development-company
-	  - odoo-development-services
-	---
-	![Odoo Development](https://github.com/nandini-bodkhe1/ffkf/blob/main/Exploring%20Open%20Source%20Contributions%20in%20the%20Odoo%20Community.png?raw=true)
+layout: post
+title: "Exploring Open Source Contributions in the Odoo Community"
+date: 2024-09-21
+image: https://github.com/nandini-bodkhe1/ffkf/blob/main/Exploring%20Open%20Source%20Contributions%20in%20the%20Odoo%20Community.png?raw=true
+permalink: /:title/
+description: "Dive into the world of open-source with the Odoo Community, where collaboration and shared ideas drive innovation and support growth for all."
+author: John Austin
+categories: [Odoo]
+tags:
+- odoo-development-company
+ - odoo-development-services
+---
+![Odoo Development](https://github.com/nandini-bodkhe1/ffkf/blob/main/Exploring%20Open%20Source%20Contributions%20in%20the%20Odoo%20Community.png?raw=true)
 
 
  **Exploring Open Source Contributions in the Odoo Community**

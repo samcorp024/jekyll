@@ -1,17 +1,17 @@
-	---
-	layout: post
-	title: "The Importance of Inclusivity in the Odoo Community"
-	date: 2024-09-21
-	image: https://github.com/nandini-bodkhe1/ffkf/blob/main/The%20Importance%20of%20Inclusivity%20in%20the%20Odoo%20Community.png?raw=true
-	permalink: /:title/
-	description: "Explore why inclusivity matters in the Odoo Community—how embracing diversity strengthens connections, ideas, and growth for everyone involved."
-	author: John Austin
-	categories: [Odoo]
-	tags:
-	  - odoo-development-company
-	  - odoo-development-services
-	---
-	![Odoo Development](https://github.com/nandini-bodkhe1/IMAGES/blob/main/odoo/Odoo%20Customization%20for%20Network%20Management%20Solutions.png?raw=true)
+---
+layout: post
+title: "The Importance of Inclusivity in the Odoo Community"
+date: 2024-09-21
+image: https://github.com/nandini-bodkhe1/ffkf/blob/main/The%20Importance%20of%20Inclusivity%20in%20the%20Odoo%20Community.png?raw=true
+permalink: /:title/
+description: "Explore why inclusivity matters in the Odoo Community—how embracing diversity strengthens connections, ideas, and growth for everyone involved."
+author: John Austin
+categories: [Odoo]
+tags:
+- odoo-development-company
+- odoo-development-services
+---
+![Odoo Development](https://github.com/nandini-bodkhe1/IMAGES/blob/main/odoo/Odoo%20Customization%20for%20Network%20Management%20Solutions.png?raw=true)
 
 
 

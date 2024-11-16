@@ -8,8 +8,8 @@ description: "Learn simple steps to migrate your data to Odoo smoothly, keeping 
 author: John Austin
 categories: [Odoo]
 tags:
-- odoo-development-company
-- odoo-development-services
+ - odoo-development-company
+ - odoo-development-services
 ---
 ![Odoo Development](https://github.com/nandini-bodkhe1/ffkf/blob/main/How%20to%20Migrate%20Your%20Data%20to%20Odoo%20Without%20Losing%20Integrity.png?raw=true)
 

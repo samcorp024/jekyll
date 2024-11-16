@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Exploring Open Source Contributions in the Odoo Community"
-date: 2024-09-21
+date: 2024-10-20
 image: https://github.com/nandini-bodkhe1/ffkf/blob/main/Exploring%20Open%20Source%20Contributions%20in%20the%20Odoo%20Community.png?raw=true
 permalink: /:title/
 description: "Dive into the world of open-source with the Odoo Community, where collaboration and shared ideas drive innovation and support growth for all."
 author: John Austin
 categories: [Odoo]
 tags:
-- odoo-development-company
+ - odoo-development-company
  - odoo-development-services
 ---
 ![Odoo Development](https://github.com/nandini-bodkhe1/ffkf/blob/main/Exploring%20Open%20Source%20Contributions%20in%20the%20Odoo%20Community.png?raw=true)
 
 
- **Exploring Open Source Contributions in the Odoo Community**
+**Exploring Open Source Contributions in the Odoo Community**
 
 Open-source contributions are the foundation of Odoo’s evolution and success as a versatile ERP platform. From custom modules to comprehensive documentation, the Odoo community plays a significant role in shaping the platform’s capabilities and accessibility. These contributions not only enhance the platform but also foster a supportive and innovative community for users and developers alike. In this blog, we’ll explore the key areas of open-source contributions in the Odoo community and how they impact Odoo’s development and user experience.
 

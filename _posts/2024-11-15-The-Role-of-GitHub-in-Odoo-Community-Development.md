@@ -8,8 +8,8 @@ description: "Explore how GitHub powers Odoo community growth, helping developer
 author: John Austin
 categories: [Odoo]
 tags:
-- odoo-development-company
-- odoo-development-services
+  - odoo-development-company
+  - odoo-development-services
 ---
 ![Odoo Development](https://github.com/nandini-bodkhe1/ffkf/blob/main/The%20Role%20of%20GitHub%20in%20Odoo%20Community%20Development.png?raw=true)
 

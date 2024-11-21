@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using Odoo for Multi-Tier Inventory Management"
-date: 2024-11-13
+date: 2024-11-21
 image: https://github.com/akashpalve007/prod-website-images/blob/main/Using%20Odoo%20for%20Multi-Tier%20Inventory%20Management.png?raw=true
 permalink: /:title/
 description: "Discover how Odoo simplifies multi-tier inventory management with real-time tracking, automated replenishments, and smooth coordination."

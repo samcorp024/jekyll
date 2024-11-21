@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tracking Production Progress in Real-Time with Odoo"
-date: 2024-11-13
+date: 2024-11-21
 image: https://github.com/akashpalve007/prod-website-images/blob/main/Tracking%20Production%20Progress%20in%20Real-Time%20with%20Odoo.png?raw=true
 permalink: /:title/
 description: "Monitor production progress in real-time with Odoo's smart tools. Streamline workflows and boost efficiency effortlessly."
